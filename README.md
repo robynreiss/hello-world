@@ -1,2 +1,2 @@
 # hello-world
-About the author.
+About the author
